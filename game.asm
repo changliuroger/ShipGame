@@ -28,6 +28,7 @@
 #
 # Link to video demonstration for final submission:
 # demo link: https://github.com/changliuroger/ShipGame
+# or: https://utoronto-my.sharepoint.com/:v:/g/personal/changroger_liu_mail_utoronto_ca/EbZptcJO5PBLgYYagR7PE7cBqpzzwng2-SXiVu_8uMNWdg?e=egLSzU
 #
 #Are you OKwith us sharing the video with people outside course staff?
 # yes
